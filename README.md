@@ -1,4 +1,4 @@
-# G27 Stock Price Predictor
+# Stock Market Price Prediction using LSTM model
 
 A stock price prediction tool using an LSTM (Long Short-Term Memory) neural network built with PyTorch. It trains on historical stock data (CSV files) and forecasts future prices.
 
